@@ -30,7 +30,7 @@ great partners to work with in ensuring we have the best server for you.
 | :---------------------------: |:-----------------------------: |
 | Member                        | Trial Staff or Moderator       |
 | Partnership Manager           | Partnership Manager Management |
-| Trial Staff                   | Staff Manager                  |
+| Trial Staff                   | jtwooton or Stephen            |
 | Moderator                     | Admin+                         |
 | Admin                         | Head Admin+                    |
 | Head Admin                    | Owner                          |
