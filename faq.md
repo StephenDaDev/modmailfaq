@@ -1,20 +1,20 @@
-# Modmail Frequently Asked Questions
-## Last Updated 06/08/2019
+# Modmail's Frequently Asked Questions
+## Last Updated ~ July 8th, 2019
 
-#### 1Q. What is Modmail?
-##### 1A. Modmail is akin to Reddit's Modmail both in functionality and purpose. It serves as a shared inbox/feed for server staff to communicate with the userbase and vice versa in a seamless way.
+#### 1. What is Modmail?
+##### Modmail is akin to Reddit's Modmail both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users, and vice versa, in a seamless way.
 
-#### 2Q. Can I invite Modmail?
-##### 2A. Sadly, due to the nature and how it works, You can not invite Modmail. You need to deploy your own by following the [Tutorial on the Repo's Wiki](https://github.com/kyb3r/modmail/wiki/Installation) or you can use the Patron Hosting Service, for more details please visit [Kyber's Patreon](https://patreon.com/kyber) or [The Modmail Discord](https://discord.gg/j5e9p8w)
+#### 2. Can I invite Modmail?
+##### Due to the nature of how Modmail works, you can't invite the bot. You need to deploy your own by following the [tutorial on the wiki](https://github.com/kyb3r/modmail/wiki/Installation). Alternatively, you can make use of the hosting service for Patrons. For more details, visit [Kyber's patreon](https://patreon.com/kyber) or the [support server for Modmail](https://discord.gg/j5e9p8w).
 
-#### 3Q. How does Modmail Work?
-##### 3A.  Modmail utilizes the Discord Bot API. When someone Direct Messages the bot a new thread will be created in the thread creation category, after that members of the Staff Team can reply by using the ``?reply`` command. Once you are ready to close a thread you can use the ``?close`` command. You can also make snippets and command aliases for ease of use.
+#### 3. How does Modmail work?
+##### Modmail utilizes the Discord API to interact with the platform. When someone sends a DM to the bot, it will a new thread. Members of the moderation team can reply by using the `?reply` command, whereupon the bot will redirect that message to the recipient. Once a conversation is over,  you can use the `?close` command. You can also make snippets and command aliases for ease of use.
 
-#### 4Q. Is Modmail Safe
-##### 4A. Yes, Modmail is a safe bot, all new changes are reviewed by the Developement Team to ensure they are not malicious before adding to the code.
+#### 4. Is Modmail safe?
+##### Yes, Modmail is a safe bot. All new changes are reviewed by the core developers to ensure they are not malicious.
 
-#### 5Q. Can I request new features?
-##### 5A. Yes! You can request new features by making an issue on the [kyb3r/modmail](https://github.com/kyb3r/modmail/issues) Repo
+#### 5. Can I request new features?
+##### Modmail is an open-source project, which means you can easily add or request new features. You can make a PR or issue on the [Modmail](https://github.com/kyb3r/modmail/issues) repository.
 
-#### 6Q. Why do we recommend Heroku?
-##### 6A. We recommend using Heroku due to its ease of setup and updates. You can easily deploy your own Modmail bot on Heroku in just a few minutes. If you opt to host it on your own PC you must keep your PC on or the bot will go offline, meaning you could never turn your PC off if you wanted to be running Modmail. Aditionally, you can setup Heroku to automatically update everytime the Dev's release new features. If you would prefer not to use Heroku you can use the Patron Hosting Service.
+#### 6. Why do we recommend Heroku?
+##### We recommend using Heroku due to its ease of setup and updates. You can easily deploy your own Modmail bot on Heroku in just a few minutes.  If you would prefer not to use Heroku, you can use the hosting service for Patrons or you can opt to host it on your own PC. However, you must keep your PC on or the bot will go offline. This means you could never turn your PC off if you wanted to be running Modmail 24/7. Aditionally, you can setup Heroku to automatically update everytime the developers release new features.
