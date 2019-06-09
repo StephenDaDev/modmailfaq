@@ -20,4 +20,4 @@
 ##### We recommend using Heroku due to its ease of setup and updates. You can easily deploy your own Modmail bot on Heroku in just a few minutes.  If you would prefer not to use Heroku, you can use the hosting service for Patrons or you can opt to host it on your own PC. However, you must keep your PC on or the bot will go offline. This means you could never turn your PC off if you wanted to be running Modmail 24/7. Aditionally, you can setup Heroku to automatically update everytime the developers release new features.
 
 #### 7. Can I add commands to the bot?
-##### You can add command to the bot by using Plugins, if a plugin you want is not currently developed you can develop it yourself, or wait for a Plugin Developer to develop it. All currently avalible plugins can be found using the ``?plugin registry`` command. 
+##### You can add command to the bot by using Plugins, if a plugin you want is not currently developed you can develop it yourself, or wait for a Plugin Developer to develop it. All currently approved plugins can be found using the ``?plugin registry`` command. 
