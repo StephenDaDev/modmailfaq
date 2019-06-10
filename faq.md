@@ -21,3 +21,6 @@
 
 #### 7. Can I add commands to the bot?
 ##### You can add command to the bot by using Plugins, if a plugin you want is not currently developed you can develop it yourself, or wait for a Plugin Developer to develop it. All currently avalible plugins can be found using the ``?plugin registry`` command. 
+
+#### 8. My bot is offline, what do I do?
+##### You can join our [support server](https://discord.gg/j5e9p8w) DM Modmail, and one of our Support Team members will assist you.
