@@ -25,3 +25,5 @@
 #### 8. My bot is offline, what do I do?
 ##### You can join our [support server](https://discord.gg/j5e9p8w) DM Modmail, and one of our Support Team members will assist you.
 
+#### 9. How can I donate/support the developers?
+##### You can contribute to the developers using [Kyber's patreon](https://patreon.com/kyber) this will also get you perks, such as a role in our discord and a Modmail bot hosted for you!
