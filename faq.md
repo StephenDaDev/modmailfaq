@@ -1,5 +1,5 @@
 # Modmail's Frequently Asked Questions
-## Last Updated ~ July 8th, 2019
+## Last Updated ~ July 10th, 2019
 
 #### 1. What is Modmail?
 ##### Modmail is akin to Reddit's Modmail both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users, and vice versa, in a seamless way.
@@ -10,8 +10,8 @@
 #### 3. How does Modmail work?
 ##### Modmail utilizes the Discord API to interact with the platform. When someone sends a DM to the bot, it will a new thread. Members of the moderation team can reply by using the ``?reply`` command, whereupon the bot will redirect that message to the recipient. Once a conversation is over,  you can use the ``?close`` command. You can also make snippets and command aliases for ease of use.
 
-#### 4. Is Modmail safe?
-##### Yes, Modmail is a safe bot. All new changes are reviewed by the core developers to ensure they are not malicious.
+#### 4. Can my Modmail be hacked?
+##### Your modmail is safe as long as you don't share your bot's token. If you share your token a "hacker" can take control over your bot.
 
 #### 5. Can I request new features?
 ##### Modmail is an open-source project, which means you can easily add or request new features. You can make a PR or issue on the [Modmail](https://github.com/kyb3r/modmail/issues) repository.
@@ -24,3 +24,6 @@
 
 #### 8. My bot is offline, what do I do?
 ##### You can join our [support server](https://discord.gg/j5e9p8w) DM Modmail, and one of our Support Team members will assist you.
+
+#### 9. How do I become Support Staff
+##### Join our [support server](https://discord.gg/j5e9p8w) and DM Modmail, One of our Senior Support or Mods will interview you.
