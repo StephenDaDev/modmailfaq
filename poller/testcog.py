@@ -10,8 +10,7 @@ Cog = getattr(commands, "Cog", object)
 
 
 class testcog(Cog):
-    """DO NOT EAT MY MODMAIL PLUGIN UNDER ANY CIRCUMSTANCES
-    """
+    """Testing"""
 
 
 @commands.command
