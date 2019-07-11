@@ -1,15 +1,14 @@
 import asyncio
-
 import discord
 from discord.ext import commands
-
 from core import checks
 from core.models import PermissionLevel
 
-Cog = getattr(commands, "Cog", object)
+#Cog = getattr(commands, "Cog", object)
 
 
-class testcog(Cog):
+class testcog(commands.Cog):
+    
     """Testing"""
 
 
