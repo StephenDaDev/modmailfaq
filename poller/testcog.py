@@ -16,8 +16,8 @@ class testcog(Cog):
 
 @commands.command(pass_context=True)
 @checks.has_permissions(PermissionLevel.SUPPORTER)
-async def emoji(ctx):
-    await bot.self.say(test)
+async def sayhi(ctx):
+     await ctx.send('Hi MiTondoot!')
         
     def setup(bot):
 bot.add_cog(testcog(bot))
