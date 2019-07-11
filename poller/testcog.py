@@ -14,9 +14,9 @@ class testcog(Cog):
     """
 
 
-@commands.command(pass_context=True)
+@commands.command
 @checks.has_permissions(PermissionLevel.SUPPORTER)
-async def sayhi(ctx):
+async def sayhi(self, ctx):
      await ctx.send('Hi MiTondoot!')
         
 
