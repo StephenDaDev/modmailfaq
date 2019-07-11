@@ -18,4 +18,5 @@ async def sayhi(self, ctx):
      await ctx.send('Hi MiTondoot!')
         
 
-bot.add_cog(testcog(bot))
+def setup(bot):
+    bot.add_cog(testcog(bot))
