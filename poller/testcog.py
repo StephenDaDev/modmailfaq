@@ -17,10 +17,7 @@ class testcog(Cog):
 @commands.command(pass_context=True)
 @checks.has_permissions(PermissionLevel.SUPPORTER)
 async def emoji(ctx):
-    msg = await bot.say("working")
-    reactions = ['dart']
-    for emoji in reactions: 
-        await bot.add_reaction(msg, emoji)
+    await bot.self.say(test)
         
     def setup(bot):
 bot.add_cog(testcog(bot))
