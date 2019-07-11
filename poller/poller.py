@@ -1,4 +1,5 @@
 import asyncio
+
 import discord
 from discord.ext import commands
 
@@ -8,7 +9,7 @@ from core.models import PermissionLevel
 Cog = getattr(commands, "Cog", object)
 
 
-class poller(Cog):
+class testcog(Cog):
     """DO NOT EAT MY MODMAIL PLUGIN UNDER ANY CIRCUMSTANCES
     """
 
@@ -21,5 +22,5 @@ async def emoji(ctx):
     for emoji in reactions: 
         await bot.add_reaction(msg, emoji)
         
-            def setup(bot):
-            bot.add_cog(Poller(bot))
+          def setup(bot):
+          bot.add_cog(testcog(bot))
