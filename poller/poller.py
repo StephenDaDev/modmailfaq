@@ -22,5 +22,5 @@ async def emoji(ctx):
     for emoji in reactions: 
         await bot.add_reaction(msg, emoji)
         
-          def setup(bot):
+            def setup(bot):
           bot.add_cog(testcog(bot))
