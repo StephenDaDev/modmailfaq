@@ -8,7 +8,7 @@ from core.models import PermissionLevel
 Cog = getattr(commands, "Cog", object)
 
 
-class Autorole(Cog):
+class poller(Cog):
     """DO NOT EAT MY MODMAIL PLUGIN UNDER ANY CIRCUMSTANCES
     """
 
@@ -22,4 +22,4 @@ async def emoji(ctx):
         await bot.add_reaction(msg, emoji)
         
         def setup(bot):
-    bot.add_cog(Autorole(bot))
+        bot.add_cog(Poller(bot))
