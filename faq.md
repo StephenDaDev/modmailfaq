@@ -14,10 +14,10 @@
 ##### Your modmail is safe as long as you don't share your bot's token. If you share your token a "hacker" can take control over your bot.
 
 #### 5. Can I request new features?
-##### Modmail is an open-source project, which means you can easily add or request new features. You can make a PR or issue on the [Modmail](https://github.com/kyb3r/modmail/issues) repository.
+##### Modmail is an open-source(-ish) project, which means you can easily add or request new features. You can make a PR or issue on the [Modmail](https://github.com/kyb3r/modmail/issues) repository.
 
 #### 6. How do I become Support Staff
-##### Join our [support server](https://discord.gg/j5e9p8w) and DM Modmail, One of our Senior Support or Mods will interview you.
+##### Join our [support server](https://discord.gg/j5e9p8w) and DM Modmail, One of our Senior Supporters or Mods will interview you.
 
 #### 7. Can I add commands to the bot?
 ##### You can add command to the bot by using Plugins, if a plugin you want is not currently developed you can develop it yourself, or wait for a Plugin Developer to develop it. All currently approved plugins can be found using the ``?plugin registry`` command. 
@@ -27,3 +27,12 @@
 
 #### 9. How can I donate/support the developers?
 ##### You can contribute to the developers using [Kyber's patreon](https://patreon.com/kyber) this will also get you perks, such as a role in our discord and a Modmail bot hosted for you!
+
+#### 10. Can I give my bot a custom status (with the new feature)?
+##### Sadly, Discord has not yet given us the ability to use the Custom Status feature on our bots
+
+#### 11. Do I have to host on Heroku?
+##### No, recently with Heroku's dyno hour limit affecting Modmail bots and not just the logviewers, more and more users have been deciding to go the self-hosting route, we do provide a guide on how to do this which can be found on [Taki's Blog](https://taaku18.github.io/modmail/local-hosting/).
+
+#### 12. Can I request Plugins?
+##### Of course! Join the [Modmail Plugins Server](https://discord.gg/by2VFse)
