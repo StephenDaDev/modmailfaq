@@ -1,2 +1,4 @@
 # modmailfaq
-Home of infamous Modmail FAW
+Home of infamous Modmail FAQ
+
+Contributions are welcomed and greatly appreciated
